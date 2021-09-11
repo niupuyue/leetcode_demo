@@ -14,7 +14,7 @@ import com.paulniu.leetcode.bean.ListNode;
  * 输入：l1 = [], l2 = []
  * 输出：[]
  */
-public class MergeTwoLists {
+public class MergeTwoLinkedLists {
 
     public static void main(String[] args) {
         ListNode l1 = new ListNode(1);
